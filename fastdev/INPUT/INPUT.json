@@ -1,0 +1,13 @@
+{
+  "startUrls": [
+    {
+      "url": "https://www.appliancesdirect.co.uk/b/haier?fts=haier",
+      "userData": {
+          "Manufacturer": "Candy",
+          "Brand": "Haier",
+          "Culture Code": "en-GB",
+          "ApifyResultType": 0
+      }
+    }
+  ]
+}
