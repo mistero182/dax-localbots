@@ -1,0 +1,17 @@
+{
+  "name": "object",
+  "version": "1.0.0",
+  "description": "Object util handler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "o_cuba",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "csvtojson": "^2.0.10",
+    "lodash": "^4.17.21",
+    "xlsx": "^0.17.0"
+  }
+}

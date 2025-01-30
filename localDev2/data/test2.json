@@ -1,0 +1,286 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Tena Lady Slim Normal Inkontinenčné vložky 24 ks",
+    "@id": "https://www.pilulka.sk/tena-lady-slim-normal-vlozky-inkontinencne-24ks#product",
+    "image": [
+        "https://pilulkask.vshcdn.net/zoh4eiLi/IMG/86400/XP7Y3YSQdHg7kFR0vArdy7itKUa9SzeoE2B6glyE8Bg/trim:0:ffffff,ff00ff/aHR0cHM6Ly9waWx1bGthLnMzLWNlbnRyYWwudnNob3N0aW5nLmNsb3VkL3BpbHVsa2Etc2svZmlsZXMvaW1hZ2VzLzIwMjMtMTIvbWRfZThjZTQzMTNmNjgxNzljNDFkZmUzYTY1ZjM3ZWU0NzQuanBn.jpg"
+    ],
+    "description": "<p>Absorpčné vložky pre ženy s ľahkou inkontinenciou. Vložky s kompresnou technológiou microPROTEX&trade; vám poskytujú trojitú ochranu pred únikom moči, vznikom zápachu a vlhkosťou.</p>\n",
+    "gtin": "7322540852141",
+    "category": "Zdravotnícky materiál / Inkontinencia / Inkontinenčné vložky",
+    "review": [
+        {
+            "@type": "Review",
+            "datePublished": "2024-08-08",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": 5,
+                "ratingValue": 5,
+                "worstRating": 1
+            },
+            "name": "Tena Lady Slim Normal Inkontinenčné vložky 24 ks",
+            "author": {
+                "@type": "Person",
+                "name": "Emília Rybárová"
+            },
+            "reviewBody": "Odporúčam."
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2023-08-22",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": 5,
+                "ratingValue": 5,
+                "worstRating": 1
+            },
+            "name": "Tena Lady Slim Normal Inkontinenčné vložky 24 ks",
+            "author": {
+                "@type": "Person",
+                "name": "Gabriela Bendová"
+            },
+            "reviewBody": "Sú dobré "
+        },
+        {
+            "@type": "Review",
+            "datePublished": "",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": 5,
+                "ratingValue": 2,
+                "worstRating": 1
+            },
+            "name": "Tena Lady Slim Normal Inkontinenčné vložky 24 ks",
+            "author": {
+                "@type": "Person",
+                "name": "Katarína Tináková"
+            },
+            "reviewBody": "Spokojnosť"
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2023-10-17",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": 5,
+                "ratingValue": 5,
+                "worstRating": 1
+            },
+            "name": "Tena Lady Slim Normal Inkontinenčné vložky 24 ks",
+            "author": {
+                "@type": "Person",
+                "name": "Jiřina Šupová"
+            },
+            "reviewBody": "Uvedené vložky využívám delší dobu, ovšem oproti původním Tena Lady Normal mají díky menší části vnitřního savého polštářku o rozměru 13 cm i horší savost a neodpovídají popisu. V rámci možností se opět vrátím k původním Tena Lady Normal, které jsou po celé délce vložky vypolštářkované a savost vložky se rozloží po celé délce na rozdíl od Tena Lady Slim jejíž vnitřek se nasákne pouze na délku vnitřního polštářku, tudíž nají i nižší absorpci."
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2022-10-26",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": 5,
+                "ratingValue": 4,
+                "worstRating": 1
+            },
+            "name": "Tena Lady Slim Normal Inkontinenčné vložky 24 ks",
+            "author": {
+                "@type": "Person",
+                "name": "Szuhóczki Mihályné"
+            },
+            "reviewBody": "Myslím, že je dobrý, ale dal som mu nižšie hodnotenie, pretože nie je na predpis, čo je najpohodlnejšie pri nosení nohavíc."
+        },
+        {
+            "@type": "Review",
+            "datePublished": "2022-12-01",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": 5,
+                "ratingValue": 5,
+                "worstRating": 1
+            },
+            "name": "Tena Lady Slim Normal Inkontinenčné vložky 24 ks",
+            "author": {
+                "@type": "Person",
+                "name": "Anita Halászová"
+            },
+            "reviewBody": "počas nosenia som pokojná, cítim sa sebaisto, nestresujem sa"
+        }
+    ],
+    "offers": {
+        "@type": "Offer",
+        "url": "https://www.pilulka.sk/tena-lady-slim-normal-vlozky-inkontinencne-24ks",
+        "priceCurrency": "EUR",
+        "price": 7.9,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock",
+        "shippingDetails": [
+            {
+                "@type": "OfferShippingDetails",
+                "shippingLabel": "Pilulka Expres",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": 2.49,
+                    "currency": "EUR"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "addressCountry": "SK"
+                }
+            },
+            {
+                "@type": "OfferShippingDetails",
+                "shippingLabel": "Pilulka Box",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": 1.49,
+                    "currency": "EUR"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "addressCountry": "SK"
+                }
+            },
+            {
+                "@type": "OfferShippingDetails",
+                "shippingLabel": "Packeta - Výdajné miesto a Z-box",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": 1.99,
+                    "currency": "EUR"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "addressCountry": "SK"
+                }
+            },
+            {
+                "@type": "OfferShippingDetails",
+                "shippingLabel": "Osobne v partnerských lekárňach",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": 1.49,
+                    "currency": "EUR"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "addressCountry": "SK"
+                }
+            },
+            {
+                "@type": "OfferShippingDetails",
+                "shippingLabel": "GLS",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": 2.89,
+                    "currency": "EUR"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "addressCountry": "SK"
+                }
+            }
+        ]
+    },
+    "mainEntityOfPage": {
+        "@type": "ItemPage",
+        "headline": "Tena Lady Slim Normal Inkontinenčné vložky 24 ks",
+        "url": "https://www.pilulka.sk/tena-lady-slim-normal-vlozky-inkontinencne-24ks",
+        "@id": "https://www.pilulka.sk/tena-lady-slim-normal-vlozky-inkontinencne-24ks#itempage",
+        "about": {
+            "@id": "https://www.pilulka.sk/tena-lady-slim-normal-vlozky-inkontinencne-24ks#product"
+        },
+        "mainEntity": {
+            "@id": "https://www.pilulka.sk/tena-lady-slim-normal-vlozky-inkontinencne-24ks#product"
+        },
+        "inLanguage": "sk",
+        "potentialAction": {
+            "@type": "SellAction",
+            "object": {
+                "@type": "Product",
+                "name": "Tena Lady Slim Normal Inkontinenčné vložky 24 ks",
+                "@id": "https://www.pilulka.sk/tena-lady-slim-normal-vlozky-inkontinencne-24ks#product"
+            }
+        },
+        "keywords": "Tena Lady Slim Normal Inkontinenčné vložky 24 ks",
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "https://www.pilulka.sk/zdravotnicky-material",
+                        "name": "Zdravotnícky materiál"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "https://www.pilulka.sk/inkontinencia",
+                        "name": "Inkontinencia"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                        "@id": "https://www.pilulka.sk/inkontinencne-vlozky",
+                        "name": "Inkontinenčné vložky"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "item": {
+                        "@id": "https://www.pilulka.sk/tena-lady-slim-normal-vlozky-inkontinencne-24ks",
+                        "name": "Tena Lady Slim Normal Inkontinenčné vložky 24 ks"
+                    }
+                }
+            ]
+        },
+        "isPartOf": {
+            "@type": "WebSite",
+            "url": "https://www.pilulka.sk",
+            "name": "Pilulka.sk",
+            "@id": "https://www.pilulka.sk#website",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Pilulka.sk",
+                "@id": "https://www.pilulka.sk#publisher",
+                "alternateName": "Pilulka lékárny a.s.",
+                "sameAs": [
+                    "https://www.facebook.com/Pilulka.cz/",
+                    "https://twitter.com/Pilulkacz",
+                    "https://www.instagram.com/pilulkacz/",
+                    "https://www.youtube.com/channel/UCHZjKRINTuPndlUTycblCzA",
+                    "https://cs.wikipedia.org/wiki/Pilulka_L%C3%A9k%C3%A1rny"
+                ],
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.pilulka.sk/nuxt-assets/images/logo/pilulka.svg"
+                },
+                "contactPoint": {
+                    "@type": "ContactPoint",
+                    "telephone": "+421 221 025 196",
+                    "email": "info@pilulka.sk",
+                    "contactType": "customer service"
+                }
+            }
+        }
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.3,
+        "reviewCount": 6
+    },
+    "brand": {
+        "@type": "Brand",
+        "name": "Tena"
+    },
+    "manufacturer": {
+        "@type": "Organization",
+        "name": "Essity Slovakia s.r.o."
+    }
+}

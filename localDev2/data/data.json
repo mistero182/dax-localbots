@@ -1,0 +1,2835 @@
+{
+    "q": "philips",
+    "didYouMean": [],
+    "primaryList": {
+        "productGroups": [
+            {
+                "products": [
+                    {
+                        "key": "126893-p",
+                        "ticket": "OzM7IzsxMjY4OTMtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsxOzk4OyM7",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126893_1_145c8add80e75847a62e48b3fecd06cf.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126893_1_145c8add80e75847a62e48b3fecd06cf.jpeg"
+                        },
+                        "title": "TV Philips 50PUS8309/12 Tv",
+                        "name": "Philips 50PUS8309/12 Tv",
+                        "link": "/philips-50pus8309-12-tv-126893",
+                        "variants": [
+                            {
+                                "key": "126893",
+                                "ticket": "OzM7IzsxMjY4OTMtcDsxMjY4OTM7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7OTg7Izs",
+                                "inStock": true,
+                                "stockNumber": 13,
+                                "listPrice": 11490.0,
+                                "sellingPrice": 5990.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "TV",
+                                    "label": "TV"
+                                }
+                            ],
+                            "energy_arrow_url": [
+                                {
+                                    "id": "arrow-left-red-g-ag",
+                                    "label": "arrow-left-red-g-ag"
+                                }
+                            ],
+                            "energy_decal_url": [
+                                {
+                                    "id": "https://static.elongroup.se//EnergyDecal/Article/1238461/philips-50pus8309-12.svg",
+                                    "label": "https://static.elongroup.se//EnergyDecal/Article/1238461/philips-50pus8309-12.svg"
+                                }
+                            ],
+                            "energyproductsheet_url": [
+                                {
+                                    "id": "https://static.elongroup.se/Document/Article/474833/energiproduktblad-tv-philips-50pus830912.pdf",
+                                    "label": "https://static.elongroup.se/Document/Article/474833/energiproduktblad-tv-philips-50pus830912.pdf"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7340089511497,7332690219008,7350015612181,7340089513828,7340089514269,7340089511336,7340089511640,7350015610484,7340089516621,7340089513903,7340089514177,7340089514313,7340089514221",
+                                    "label": "7340089511497,7332690219008,7350015612181,7340089513828,7340089514269,7340089511336,7340089511640,7350015610484,7340089516621,7340089513903,7340089514177,7340089514313,7340089514221"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "99207",
+                                    "label": "99207"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "50-tums Ambilight-TV – utforska en helt ny värld av färger och ljus med The One",
+                                    "label": "50-tums Ambilight-TV – utforska en helt ny värld av färger och ljus med The One"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {
+                                "product_badges": [
+                                    {
+                                        "category_value": "48%",
+                                        "badge_id": "1828",
+                                        "name": "% discount_NO",
+                                        "category_image_width": "70",
+                                        "category_image_height": "70",
+                                        "is_scheduled": "0",
+                                        "beginning_date": "0000-00-00 00:00:00",
+                                        "ending_date": "0000-00-00 00:00:00",
+                                        "category_position": "top-right",
+                                        "category_image_link": "https://www.elon.no/media/catalog/vaimo_badges/Procent-badge_70x70.png"
+                                    },
+                                    {
+                                        "badge_id": "2215",
+                                        "name": " Prøv i 120 dager - Philips Ambilight",
+                                        "category_image_width": "120",
+                                        "category_image_height": "120",
+                                        "is_scheduled": "1",
+                                        "beginning_date": "2024-10-29 15:10:00",
+                                        "ending_date": "2025-01-12 22:59:00",
+                                        "category_position": "top-left",
+                                        "link": "https://www.elon.no/philips-ambilight-tv",
+                                        "category_image_link": "https://www.elon.no/media/catalog/vaimo_badges/ambilight_120_dager.png"
+                                    },
+                                    {
+                                        "badge_id": "2292",
+                                        "name": "Kampanjebadge_K10_Norge",
+                                        "is_scheduled": "1",
+                                        "beginning_date": "2024-12-01 23:00:00",
+                                        "ending_date": "2024-12-22 22:59:00",
+                                        "category_position": "top-right"
+                                    }
+                                ]
+                            },
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "126893-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "126709-p",
+                        "ticket": "OzM7IzsxMjY3MDktcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsyOzk4OyM7",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126709_1_b9832b4471ed7f427aad741ba948d0d4.jpeg",
+                                            "width": 1500,
+                                            "height": 1500
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126709_1_b9832b4471ed7f427aad741ba948d0d4.jpeg"
+                        },
+                        "title": "Airfryer Philips NA352/00 Airfryer",
+                        "name": "Philips NA352/00 Airfryer",
+                        "link": "/philips-na352-00-airfryer-126709",
+                        "variants": [
+                            {
+                                "key": "126709",
+                                "ticket": "OzM7IzsxMjY3MDktcDsxMjY3MDk7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7OTg7Izs",
+                                "inStock": true,
+                                "stockNumber": 281,
+                                "listPrice": 2795.0,
+                                "sellingPrice": 1990.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "Airfryer",
+                                    "label": "Airfryer"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080004053458",
+                                    "label": "7080004053458"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "99149",
+                                    "label": "99149"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Philips Airfryer NA352/00 er designet for å balansere måltidene dine slik du vil ha dem.",
+                                    "label": "Philips Airfryer NA352/00 er designet for å balansere måltidene dine slik du vil ha dem."
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {
+                                "product_badges": [
+                                    {
+                                        "category_value": "29%",
+                                        "badge_id": "1828",
+                                        "name": "% discount_NO",
+                                        "category_image_width": "70",
+                                        "category_image_height": "70",
+                                        "is_scheduled": "0",
+                                        "beginning_date": "0000-00-00 00:00:00",
+                                        "ending_date": "0000-00-00 00:00:00",
+                                        "category_position": "top-right",
+                                        "category_image_link": "https://www.elon.no/media/catalog/vaimo_badges/Procent-badge_70x70.png"
+                                    },
+                                    {
+                                        "badge_id": "2292",
+                                        "name": "Kampanjebadge_K10_Norge",
+                                        "is_scheduled": "1",
+                                        "beginning_date": "2024-12-01 23:00:00",
+                                        "ending_date": "2024-12-22 22:59:00",
+                                        "category_position": "top-right"
+                                    }
+                                ]
+                            },
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "126709-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "126892-p",
+                        "ticket": "OzM7IzsxMjY4OTItcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDszOzk4OyM7",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126892_1_581fc9e26ec633ba4ec37e5b1a708d68.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126892_1_581fc9e26ec633ba4ec37e5b1a708d68.jpeg"
+                        },
+                        "title": "TV Philips 43PUS8309/12 Tv",
+                        "name": "Philips 43PUS8309/12 Tv",
+                        "link": "/philips-43pus8309-12-tv-126892",
+                        "variants": [
+                            {
+                                "key": "126892",
+                                "ticket": "OzM7IzsxMjY4OTItcDsxMjY4OTI7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7OTg7Izs",
+                                "inStock": true,
+                                "stockNumber": 110,
+                                "listPrice": 9990.0,
+                                "sellingPrice": 5490.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "TV",
+                                    "label": "TV"
+                                }
+                            ],
+                            "energy_arrow_url": [
+                                {
+                                    "id": "arrow-left-red-g-ag",
+                                    "label": "arrow-left-red-g-ag"
+                                }
+                            ],
+                            "energy_decal_url": [
+                                {
+                                    "id": "https://static.elongroup.se//EnergyDecal/Article/1238460/philips-43pus8309-12.svg",
+                                    "label": "https://static.elongroup.se//EnergyDecal/Article/1238460/philips-43pus8309-12.svg"
+                                }
+                            ],
+                            "energyproductsheet_url": [
+                                {
+                                    "id": "https://static.elongroup.se/Document/Article/474333/energiproduktblad-tv-philips-43pus830912.pdf",
+                                    "label": "https://static.elongroup.se/Document/Article/474333/energiproduktblad-tv-philips-43pus830912.pdf"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080000483679",
+                                    "label": "7080000483679"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "99206",
+                                    "label": "99206"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Ambilight TV-modeller er de eneste TV-ene med innebygde LED-lys på baksiden som reagerer på det du ser og omgir deg med en lys glorie av farger.",
+                                    "label": "Ambilight TV-modeller er de eneste TV-ene med innebygde LED-lys på baksiden som reagerer på det du ser og omgir deg med en lys glorie av farger."
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {
+                                "product_badges": [
+                                    {
+                                        "category_value": "45%",
+                                        "badge_id": "1828",
+                                        "name": "% discount_NO",
+                                        "category_image_width": "70",
+                                        "category_image_height": "70",
+                                        "is_scheduled": "0",
+                                        "beginning_date": "0000-00-00 00:00:00",
+                                        "ending_date": "0000-00-00 00:00:00",
+                                        "category_position": "top-right",
+                                        "category_image_link": "https://www.elon.no/media/catalog/vaimo_badges/Procent-badge_70x70.png"
+                                    },
+                                    {
+                                        "badge_id": "2215",
+                                        "name": " Prøv i 120 dager - Philips Ambilight",
+                                        "category_image_width": "120",
+                                        "category_image_height": "120",
+                                        "is_scheduled": "1",
+                                        "beginning_date": "2024-10-29 15:10:00",
+                                        "ending_date": "2025-01-12 22:59:00",
+                                        "category_position": "top-left",
+                                        "link": "https://www.elon.no/philips-ambilight-tv",
+                                        "category_image_link": "https://www.elon.no/media/catalog/vaimo_badges/ambilight_120_dager.png"
+                                    },
+                                    {
+                                        "badge_id": "2292",
+                                        "name": "Kampanjebadge_K10_Norge",
+                                        "is_scheduled": "1",
+                                        "beginning_date": "2024-12-01 23:00:00",
+                                        "ending_date": "2024-12-22 22:59:00",
+                                        "category_position": "top-right"
+                                    }
+                                ]
+                            },
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "126892-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "126898-p",
+                        "ticket": "OzM7IzsxMjY4OTgtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDs0Ozk4OyM7",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126898_1_5e264defd977653c7739c1e543e846fd.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126898_1_5e264defd977653c7739c1e543e846fd.jpeg"
+                        },
+                        "title": "TV Philips 50\" - 50PUS8949 4K Ambilight TV",
+                        "name": "Philips 50\" - 50PUS8949 4K Ambilight TV",
+                        "link": "/philips-50-50pus8949-4k-ambilight-tv-126898",
+                        "variants": [
+                            {
+                                "key": "126898",
+                                "ticket": "OzM7IzsxMjY4OTgtcDsxMjY4OTg7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7OTg7Izs",
+                                "inStock": true,
+                                "stockNumber": 27,
+                                "listPrice": 13990.0,
+                                "sellingPrice": 7990.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "TV",
+                                    "label": "TV"
+                                }
+                            ],
+                            "energy_arrow_url": [
+                                {
+                                    "id": "arrow-left-darkorange-f-ag",
+                                    "label": "arrow-left-darkorange-f-ag"
+                                }
+                            ],
+                            "energy_decal_url": [
+                                {
+                                    "id": "https://static.elongroup.se//EnergyDecal/Article/1238466/philips-50-50pus8949-12.svg",
+                                    "label": "https://static.elongroup.se//EnergyDecal/Article/1238466/philips-50-50pus8949-12.svg"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7340089516898,7340089516621",
+                                    "label": "7340089516898,7340089516621"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "99897",
+                                    "label": "99897"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "50\" 4K Ambilight TV The One – den perfekta TV:n för dig som vill ha allt",
+                                    "label": "50\" 4K Ambilight TV The One – den perfekta TV:n för dig som vill ha allt"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {
+                                "product_badges": [
+                                    {
+                                        "category_value": "43%",
+                                        "badge_id": "1828",
+                                        "name": "% discount_NO",
+                                        "category_image_width": "70",
+                                        "category_image_height": "70",
+                                        "is_scheduled": "0",
+                                        "beginning_date": "0000-00-00 00:00:00",
+                                        "ending_date": "0000-00-00 00:00:00",
+                                        "category_position": "top-right",
+                                        "category_image_link": "https://www.elon.no/media/catalog/vaimo_badges/Procent-badge_70x70.png"
+                                    },
+                                    {
+                                        "badge_id": "2215",
+                                        "name": " Prøv i 120 dager - Philips Ambilight",
+                                        "category_image_width": "120",
+                                        "category_image_height": "120",
+                                        "is_scheduled": "1",
+                                        "beginning_date": "2024-10-29 15:10:00",
+                                        "ending_date": "2025-01-12 22:59:00",
+                                        "category_position": "top-left",
+                                        "link": "https://www.elon.no/philips-ambilight-tv",
+                                        "category_image_link": "https://www.elon.no/media/catalog/vaimo_badges/ambilight_120_dager.png"
+                                    },
+                                    {
+                                        "badge_id": "2292",
+                                        "name": "Kampanjebadge_K10_Norge",
+                                        "is_scheduled": "1",
+                                        "beginning_date": "2024-12-01 23:00:00",
+                                        "ending_date": "2024-12-22 22:59:00",
+                                        "category_position": "top-right"
+                                    }
+                                ]
+                            },
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "126898-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "126900-p",
+                        "ticket": "OzM7IzsxMjY5MDAtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDs1Ozk4OyM7",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126900_1_5e264defd977653c7739c1e543e846fd.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126900_1_5e264defd977653c7739c1e543e846fd.jpeg"
+                        },
+                        "title": "TV Philips 65\" - 65PUS8949 4K Ambilight TV",
+                        "name": "Philips 65\" - 65PUS8949 4K Ambilight TV",
+                        "link": "/philips-65-65pus8949-4k-ambilight-tv-126900",
+                        "variants": [
+                            {
+                                "key": "126900",
+                                "ticket": "OzM7IzsxMjY5MDAtcDsxMjY5MDA7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7OTg7Izs",
+                                "inStock": true,
+                                "stockNumber": 89,
+                                "listPrice": 17990.0,
+                                "sellingPrice": 17990.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "TV",
+                                    "label": "TV"
+                                }
+                            ],
+                            "energy_arrow_url": [
+                                {
+                                    "id": "arrow-left-lightorange-e-ag",
+                                    "label": "arrow-left-lightorange-e-ag"
+                                }
+                            ],
+                            "energy_decal_url": [
+                                {
+                                    "id": "https://static.elongroup.se//EnergyDecal/Article/1238468/philips-65pus8949-12.svg",
+                                    "label": "https://static.elongroup.se//EnergyDecal/Article/1238468/philips-65pus8949-12.svg"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080000483679",
+                                    "label": "7080000483679"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "99899",
+                                    "label": "99899"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "65\" 4K Ambilight TV The One – den perfekta TV:n för dig som vill ha allt",
+                                    "label": "65\" 4K Ambilight TV The One – den perfekta TV:n för dig som vill ha allt"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {
+                                "product_badges": [
+                                    {
+                                        "badge_id": "2215",
+                                        "name": " Prøv i 120 dager - Philips Ambilight",
+                                        "category_image_width": "120",
+                                        "category_image_height": "120",
+                                        "is_scheduled": "1",
+                                        "beginning_date": "2024-10-29 15:10:00",
+                                        "ending_date": "2025-01-12 22:59:00",
+                                        "category_position": "top-left",
+                                        "link": "https://www.elon.no/philips-ambilight-tv",
+                                        "category_image_link": "https://www.elon.no/media/catalog/vaimo_badges/ambilight_120_dager.png"
+                                    }
+                                ]
+                            },
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "126900-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "146425-p",
+                        "ticket": "OzM7IzsxNDY0MjUtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDs2Ozk4OyM7",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/4/146425_1_73d5a6e637904fe5711eab051a687c7e.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/4/146425_1_73d5a6e637904fe5711eab051a687c7e.jpeg"
+                        },
+                        "title": "TV Philips 65PUS7609/12",
+                        "name": "Philips 65PUS7609/12",
+                        "link": "/philips-65pus7609-12-146425",
+                        "variants": [
+                            {
+                                "key": "146425",
+                                "ticket": "OzM7IzsxNDY0MjUtcDsxNDY0MjU7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7OTg7Izs",
+                                "inStock": true,
+                                "stockNumber": 219,
+                                "listPrice": 6490.0,
+                                "sellingPrice": 6490.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "TV",
+                                    "label": "TV"
+                                }
+                            ],
+                            "energy_arrow_url": [
+                                {
+                                    "id": "arrow-left-darkorange-f-ag",
+                                    "label": "arrow-left-darkorange-f-ag"
+                                }
+                            ],
+                            "energy_decal_url": [
+                                {
+                                    "id": "https://static.elongroup.se//EnergyDecal/Article/1282591/philips-65pus7609-12.svg",
+                                    "label": "https://static.elongroup.se//EnergyDecal/Article/1282591/philips-65pus7609-12.svg"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "102758",
+                                    "label": "102758"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "652 Smart-TV som gir deg utrolig skarpe bilder og en oppslukende lydopplevelse",
+                                    "label": "652 Smart-TV som gir deg utrolig skarpe bilder og en oppslukende lydopplevelse"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "146425-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "121819-p",
+                        "ticket": "OzM7IzsxMjE4MTktcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDs3Ozk4OyM7",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/121819_1_a85320b0dbf4ec73e8fb2500ae427445.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/121819_1_a85320b0dbf4ec73e8fb2500ae427445.jpeg"
+                        },
+                        "title": "TV Philips 85\" 85PUS8808/12",
+                        "name": "Philips 85\" 85PUS8808/12",
+                        "link": "/philips-85-85pus8808-12-121819",
+                        "variants": [
+                            {
+                                "key": "121819",
+                                "ticket": "OzM7IzsxMjE4MTktcDsxMjE4MTk7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzc7OTg7Izs",
+                                "inStock": true,
+                                "stockNumber": 1,
+                                "listPrice": 19990.0,
+                                "sellingPrice": 19990.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "TV",
+                                    "label": "TV"
+                                }
+                            ],
+                            "energy_arrow_url": [
+                                {
+                                    "id": "arrow-left-darkorange-f-ag",
+                                    "label": "arrow-left-darkorange-f-ag"
+                                }
+                            ],
+                            "energy_decal_url": [
+                                {
+                                    "id": "https://static.elongroup.se//EnergyDecal/Article/1068823/philips-85pus8808-12.svg",
+                                    "label": "https://static.elongroup.se//EnergyDecal/Article/1068823/philips-85pus8808-12.svg"
+                                }
+                            ],
+                            "energyproductsheet_url": [
+                                {
+                                    "id": "https://static.elongroup.se/Document/Article/366287/energiproduktblad-tv-philips-85pus880812.pdf",
+                                    "label": "https://static.elongroup.se/Document/Article/366287/energiproduktblad-tv-philips-85pus880812.pdf"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7320909961831",
+                                    "label": "7320909961831"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "94443",
+                                    "label": "94443"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "85\" 4K Ambilight TV som har alt",
+                                    "label": "85\" 4K Ambilight TV som har alt"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {
+                                "product_badges": [
+                                    {
+                                        "badge_id": "2215",
+                                        "name": " Prøv i 120 dager - Philips Ambilight",
+                                        "category_image_width": "120",
+                                        "category_image_height": "120",
+                                        "is_scheduled": "1",
+                                        "beginning_date": "2024-10-29 15:10:00",
+                                        "ending_date": "2025-01-12 22:59:00",
+                                        "category_position": "top-left",
+                                        "link": "https://www.elon.no/philips-ambilight-tv",
+                                        "category_image_link": "https://www.elon.no/media/catalog/vaimo_badges/ambilight_120_dager.png"
+                                    }
+                                ]
+                            },
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "121819-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "126894-p",
+                        "ticket": "OzM7IzsxMjY4OTQtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDs4Ozk4OyM7",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126894_1_581fc9e26ec633ba4ec37e5b1a708d68.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126894_1_581fc9e26ec633ba4ec37e5b1a708d68.jpeg"
+                        },
+                        "title": "TV Philips 55\" - 55PUS8309/12 Tv",
+                        "name": "Philips 55\" - 55PUS8309/12 Tv",
+                        "link": "/philips-55-55pus8309-12-tv-126894",
+                        "variants": [
+                            {
+                                "key": "126894",
+                                "ticket": "OzM7IzsxMjY4OTQtcDsxMjY4OTQ7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7OTg7Izs",
+                                "inStock": true,
+                                "stockNumber": 67,
+                                "listPrice": 12990.0,
+                                "sellingPrice": 12990.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "TV",
+                                    "label": "TV"
+                                }
+                            ],
+                            "energy_arrow_url": [
+                                {
+                                    "id": "arrow-left-red-g-ag",
+                                    "label": "arrow-left-red-g-ag"
+                                }
+                            ],
+                            "energy_decal_url": [
+                                {
+                                    "id": "https://static.elongroup.se//EnergyDecal/Article/1238462/philips-55pus8309-12.svg",
+                                    "label": "https://static.elongroup.se//EnergyDecal/Article/1238462/philips-55pus8309-12.svg"
+                                }
+                            ],
+                            "energyproductsheet_url": [
+                                {
+                                    "id": "https://static.elongroup.se/Document/Article/474876/energiproduktblad-tv-philips-55pus830912.pdf",
+                                    "label": "https://static.elongroup.se/Document/Article/474876/energiproduktblad-tv-philips-55pus830912.pdf"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080000483679",
+                                    "label": "7080000483679"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "99208",
+                                    "label": "99208"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "55-tums Ambilight-TV – utforska en helt ny värld av färger och ljus med The One",
+                                    "label": "55-tums Ambilight-TV – utforska en helt ny värld av färger och ljus med The One"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "126894-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "122455-p",
+                        "ticket": "OzM7IzsxMjI0NTUtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDs5Ozk4OyM7",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/122455_2_8c1a2c92a9f66932a30292662434782c.jpeg",
+                                            "width": 1500,
+                                            "height": 1500
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/122455_2_8c1a2c92a9f66932a30292662434782c.jpeg"
+                        },
+                        "title": "Brødrister Philips HD2650/90",
+                        "name": "Philips HD2650/90",
+                        "link": "/philips-hd2650-90",
+                        "variants": [
+                            {
+                                "key": "122455",
+                                "ticket": "OzM7IzsxMjI0NTUtcDsxMjI0NTU7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7OTg7Izs",
+                                "inStock": true,
+                                "stockNumber": 24,
+                                "listPrice": 690.0,
+                                "sellingPrice": 690.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "Brødrister",
+                                    "label": "Brødrister"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080000483679",
+                                    "label": "7080000483679"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "95554",
+                                    "label": "95554"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Brødrister med metallbrødrist og selvsentrerende ekstra bredt ristingsrom",
+                                    "label": "Brødrister med metallbrødrist og selvsentrerende ekstra bredt ristingsrom"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "122455-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "126895-p",
+                        "ticket": "OzM7IzsxMjY4OTUtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsxMDs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126895_1_145c8add80e75847a62e48b3fecd06cf.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126895_1_145c8add80e75847a62e48b3fecd06cf.jpeg"
+                        },
+                        "title": "TV Philips 65\" - 65PUS8309/12 Tv",
+                        "name": "Philips 65\" - 65PUS8309/12 Tv",
+                        "link": "/philips-65-65pus8309-12-tv-126895",
+                        "variants": [
+                            {
+                                "key": "126895",
+                                "ticket": "OzM7IzsxMjY4OTUtcDsxMjY4OTU7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 32,
+                                "listPrice": 16990.0,
+                                "sellingPrice": 16990.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "TV",
+                                    "label": "TV"
+                                }
+                            ],
+                            "energy_arrow_url": [
+                                {
+                                    "id": "arrow-left-darkorange-f-ag",
+                                    "label": "arrow-left-darkorange-f-ag"
+                                }
+                            ],
+                            "energy_decal_url": [
+                                {
+                                    "id": "https://static.elongroup.se//EnergyDecal/Article/1238463/philips-65pus8309-12.svg",
+                                    "label": "https://static.elongroup.se//EnergyDecal/Article/1238463/philips-65pus8309-12.svg"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7350015610538,7340089512142,7350015611863,7332690329004,7340089516690",
+                                    "label": "7350015610538,7340089512142,7350015611863,7332690329004,7340089516690"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "99209",
+                                    "label": "99209"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "65-tums Ambilight-TV – utforska en helt ny värld av färger och ljus med The One",
+                                    "label": "65-tums Ambilight-TV – utforska en helt ny värld av färger och ljus med The One"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "126895-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "119650-p",
+                        "ticket": "OzM7IzsxMTk2NTAtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsxMTs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/119650_1_819a82c79d65761c3c98d4c149033d49.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/119650_1_819a82c79d65761c3c98d4c149033d49.jpeg"
+                        },
+                        "title": "Hodetelefoner on & over-ear Philips SHD8850/12",
+                        "name": "Philips SHD8850/12",
+                        "link": "/philips-shd8850-12-119650",
+                        "variants": [
+                            {
+                                "key": "119650",
+                                "ticket": "OzM7IzsxMTk2NTAtcDsxMTk2NTA7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzExOzk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 57,
+                                "listPrice": 1190.0,
+                                "sellingPrice": 1190.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "Hodetelefoner on & over-ear",
+                                    "label": "Hodetelefoner on & over-ear"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080001101862,7080011000742",
+                                    "label": "7080001101862,7080011000742"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "89178",
+                                    "label": "89178"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Trådløse TV-hodetelefoner med førsteklasses kinoaktig lyd for hjemmet ditt",
+                                    "label": "Trådløse TV-hodetelefoner med førsteklasses kinoaktig lyd for hjemmet ditt"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "119650-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "118249-p",
+                        "ticket": "OzM7IzsxMTgyNDktcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsxMjs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/118249_1_cf0984e25dd68b5571b3587921213d98.jpeg",
+                                            "width": 1500,
+                                            "height": 1500
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/118249_1_cf0984e25dd68b5571b3587921213d98.jpeg"
+                        },
+                        "title": "Brødrister Philips HD2640/10",
+                        "name": "Philips HD2640/10",
+                        "link": "/philips-hd2640-10",
+                        "variants": [
+                            {
+                                "key": "118249",
+                                "ticket": "OzM7IzsxMTgyNDktcDsxMTgyNDk7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEyOzk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 7,
+                                "listPrice": 699.0,
+                                "sellingPrice": 699.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "Brødrister",
+                                    "label": "Brødrister"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080004285552",
+                                    "label": "7080004285552"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "87141",
+                                    "label": "87141"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Få ristet brød akkurat slik du liker det hver morgen med elegant stil",
+                                    "label": "Få ristet brød akkurat slik du liker det hver morgen med elegant stil"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "118249-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "126897-p",
+                        "ticket": "OzM7IzsxMjY4OTctcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsxMzs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126897_1_5e264defd977653c7739c1e543e846fd.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126897_1_5e264defd977653c7739c1e543e846fd.jpeg"
+                        },
+                        "title": "TV Philips 43\" - 43PUS8949/12 Tv",
+                        "name": "Philips 43\" - 43PUS8949/12 Tv",
+                        "link": "/philips-43-43pus8949-12-tv-126897",
+                        "variants": [
+                            {
+                                "key": "126897",
+                                "ticket": "OzM7IzsxMjY4OTctcDsxMjY4OTc7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEzOzk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 103,
+                                "listPrice": 11990.0,
+                                "sellingPrice": 11990.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "TV",
+                                    "label": "TV"
+                                }
+                            ],
+                            "energy_arrow_url": [
+                                {
+                                    "id": "arrow-left-red-g-ag",
+                                    "label": "arrow-left-red-g-ag"
+                                }
+                            ],
+                            "energy_decal_url": [
+                                {
+                                    "id": "https://static.elongroup.se//EnergyDecal/Article/1238465/philips-43pus8949-12.svg",
+                                    "label": "https://static.elongroup.se//EnergyDecal/Article/1238465/philips-43pus8949-12.svg"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080011044890,7080011044876",
+                                    "label": "7080011044890,7080011044876"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "99156",
+                                    "label": "99156"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "43\" 4K Ambilight TV – upplev TV på ett nytt sätt med The One",
+                                    "label": "43\" 4K Ambilight TV – upplev TV på ett nytt sätt med The One"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {
+                                "product_badges": [
+                                    {
+                                        "badge_id": "2215",
+                                        "name": " Prøv i 120 dager - Philips Ambilight",
+                                        "category_image_width": "120",
+                                        "category_image_height": "120",
+                                        "is_scheduled": "1",
+                                        "beginning_date": "2024-10-29 15:10:00",
+                                        "ending_date": "2025-01-12 22:59:00",
+                                        "category_position": "top-left",
+                                        "link": "https://www.elon.no/philips-ambilight-tv",
+                                        "category_image_link": "https://www.elon.no/media/catalog/vaimo_badges/ambilight_120_dager.png"
+                                    }
+                                ]
+                            },
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "126897-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "111381-p",
+                        "ticket": "OzM7IzsxMTEzODEtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsxNDs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/111381_1_7fcf44e0be435afb0111f350a697b219.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/111381_1_7fcf44e0be435afb0111f350a697b219.jpeg"
+                        },
+                        "title": "Strykestasjon/steamer Philips GC362/80",
+                        "name": "Philips GC362/80",
+                        "link": "/steam-go-steamer",
+                        "variants": [
+                            {
+                                "key": "111381",
+                                "ticket": "OzM7IzsxMTEzODEtcDsxMTEzODE7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE0Ozk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 43,
+                                "listPrice": 1149.0,
+                                "sellingPrice": 1149.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "Strykestasjon/steamer",
+                                    "label": "Strykestasjon/steamer"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080000456680,7080001272579,7080000457069,7080000480739,7080000457342,7080001217754,7080000941414,7080001236458,7080000483679,7080001364885,7080000506163,7080004154209,7080004389601,7080011044906,7080004408760,7080011061576,7080011061699,7080011061668",
+                                    "label": "7080000456680,7080001272579,7080000457069,7080000480739,7080000457342,7080001217754,7080000941414,7080001236458,7080000483679,7080001364885,7080000506163,7080004154209,7080004389601,7080011044906,7080004408760,7080011061576,7080011061699,7080011061668"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "63241",
+                                    "label": "63241"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Handsteamer för snabb uppfräschning",
+                                    "label": "Handsteamer för snabb uppfräschning"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "111381-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "119669-p",
+                        "ticket": "OzM7IzsxMTk2NjktcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsxNTs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/119669_1_cc9ac35963e40dba77abe2498db5ceab.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/119669_1_cc9ac35963e40dba77abe2498db5ceab.jpeg"
+                        },
+                        "title": "CD- & kassettradio Philips AZ127/12 CD/kassettradio",
+                        "name": "Philips AZ127/12 CD/kassettradio",
+                        "link": "/philips-az127-12-cd-kassettradio-119669",
+                        "variants": [
+                            {
+                                "key": "119669",
+                                "ticket": "OzM7IzsxMTk2NjktcDsxMTk2Njk7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE1Ozk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 73,
+                                "listPrice": 1290.0,
+                                "sellingPrice": 1290.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "CD- & kassettradio",
+                                    "label": "CD- & kassettradio"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080011044852,7080004178786",
+                                    "label": "7080011044852,7080004178786"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "92134",
+                                    "label": "92134"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Återupplev kassettbandens och CD-skivornas glansdagar eller lyssna på din senaste spellista i mobilen",
+                                    "label": "Återupplev kassettbandens och CD-skivornas glansdagar eller lyssna på din senaste spellista i mobilen"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "119669-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "120983-p",
+                        "ticket": "OzM7IzsxMjA5ODMtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsxNjs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/120983_1_ff7ba1356e35e471287896c84f414a93.jpeg",
+                                            "width": 1500,
+                                            "height": 1500
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/120983_1_ff7ba1356e35e471287896c84f414a93.jpeg"
+                        },
+                        "title": "Klokkeradio TAR3205/12 Klokkeradio",
+                        "name": "TAR3205/12 Klokkeradio",
+                        "link": "/tar3205-12-klokkeradio-120983",
+                        "variants": [
+                            {
+                                "key": "120983",
+                                "ticket": "OzM7IzsxMjA5ODMtcDsxMjA5ODM7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE2Ozk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 70,
+                                "listPrice": 349.0,
+                                "sellingPrice": 349.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "Klokkeradio",
+                                    "label": "Klokkeradio"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080004299504,7080004389601",
+                                    "label": "7080004299504,7080004389601"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "92057",
+                                    "label": "92057"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Lättanvänd FM-digital klockradio med dubbla larm, reservbatteri och insomningsfunktion",
+                                    "label": "Lättanvänd FM-digital klockradio med dubbla larm, reservbatteri och insomningsfunktion"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "120983-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "126901-p",
+                        "ticket": "OzM7IzsxMjY5MDEtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsxNzs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126901_1_09c17545bcf6ec7262ed9623290e8350.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126901_1_09c17545bcf6ec7262ed9623290e8350.jpeg"
+                        },
+                        "title": "TV Philips 75\" - 75PUS8949 4K Ambilight TV",
+                        "name": "Philips 75\" - 75PUS8949 4K Ambilight TV",
+                        "link": "/philips-75-75pus8949-4k-ambilight-tv-126901",
+                        "variants": [
+                            {
+                                "key": "126901",
+                                "ticket": "OzM7IzsxMjY5MDEtcDsxMjY5MDE7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE3Ozk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 16,
+                                "listPrice": 27990.0,
+                                "sellingPrice": 27990.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "TV",
+                                    "label": "TV"
+                                }
+                            ],
+                            "energy_arrow_url": [
+                                {
+                                    "id": "arrow-left-lightorange-e-ag",
+                                    "label": "arrow-left-lightorange-e-ag"
+                                }
+                            ],
+                            "energy_decal_url": [
+                                {
+                                    "id": "https://static.elongroup.se//EnergyDecal/Article/1238469/philips-75pus8949-12.svg",
+                                    "label": "https://static.elongroup.se//EnergyDecal/Article/1238469/philips-75pus8949-12.svg"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080011000742",
+                                    "label": "7080011000742"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "99900",
+                                    "label": "99900"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "75\" 4K Ambilight TV The One – den perfekta TV:n för dig som vill ha allt",
+                                    "label": "75\" 4K Ambilight TV The One – den perfekta TV:n för dig som vill ha allt"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {
+                                "product_badges": [
+                                    {
+                                        "badge_id": "2215",
+                                        "name": " Prøv i 120 dager - Philips Ambilight",
+                                        "category_image_width": "120",
+                                        "category_image_height": "120",
+                                        "is_scheduled": "1",
+                                        "beginning_date": "2024-10-29 15:10:00",
+                                        "ending_date": "2025-01-12 22:59:00",
+                                        "category_position": "top-left",
+                                        "link": "https://www.elon.no/philips-ambilight-tv",
+                                        "category_image_link": "https://www.elon.no/media/catalog/vaimo_badges/ambilight_120_dager.png"
+                                    }
+                                ]
+                            },
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "126901-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "117887-p",
+                        "ticket": "OzM7IzsxMTc4ODctcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsxODs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/117887_1_974a17b8ef5a25110a1b23a4463ff7d6.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/117887_1_974a17b8ef5a25110a1b23a4463ff7d6.jpeg"
+                        },
+                        "title": "Strykejern Philips DST3011/20",
+                        "name": "Philips DST3011/20",
+                        "link": "/philips-dst3011-20",
+                        "variants": [
+                            {
+                                "key": "117887",
+                                "ticket": "OzM7IzsxMTc4ODctcDsxMTc4ODc7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE4Ozk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 35,
+                                "listPrice": 490.0,
+                                "sellingPrice": 490.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "Strykejern",
+                                    "label": "Strykejern"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080001149383",
+                                    "label": "7080001149383"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "86139",
+                                    "label": "86139"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Kraftig damp som fjerner alle skrukker",
+                                    "label": "Kraftig damp som fjerner alle skrukker"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "117887-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "126905-p",
+                        "ticket": "OzM7IzsxMjY5MDUtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsxOTs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126905_1_4e8a69ee6717671ca2b55bd3ece5943e.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126905_1_4e8a69ee6717671ca2b55bd3ece5943e.jpeg"
+                        },
+                        "title": "TV Philips 65\" - 65OLED809 4K Ambilight-TV",
+                        "name": "Philips 65\" - 65OLED809 4K Ambilight-TV",
+                        "link": "/philips-65-65oled809-4k-ambilight-tv-126905",
+                        "variants": [
+                            {
+                                "key": "126905",
+                                "ticket": "OzM7IzsxMjY5MDUtcDsxMjY5MDU7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE5Ozk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 33,
+                                "listPrice": 36990.0,
+                                "sellingPrice": 36990.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "TV",
+                                    "label": "TV"
+                                }
+                            ],
+                            "energy_arrow_url": [
+                                {
+                                    "id": "arrow-left-darkorange-f-ag",
+                                    "label": "arrow-left-darkorange-f-ag"
+                                }
+                            ],
+                            "energy_decal_url": [
+                                {
+                                    "id": "https://static.elongroup.se//EnergyDecal/Article/1238473/philips-65oled809-12.svg",
+                                    "label": "https://static.elongroup.se//EnergyDecal/Article/1238473/philips-65oled809-12.svg"
+                                }
+                            ],
+                            "energyproductsheet_url": [
+                                {
+                                    "id": "https://static.elongroup.se/Document/Article/475024/energiproduktblad-tv-philips-65oled80912.pdf",
+                                    "label": "https://static.elongroup.se/Document/Article/475024/energiproduktblad-tv-philips-65oled80912.pdf"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7340089516898",
+                                    "label": "7340089516898"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "100051",
+                                    "label": "100051"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Imponerende 65\" 4K Ambilight-TV med et virkelighetstro bilde og et fantastisk lyd",
+                                    "label": "Imponerende 65\" 4K Ambilight-TV med et virkelighetstro bilde og et fantastisk lyd"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {
+                                "product_badges": [
+                                    {
+                                        "badge_id": "2215",
+                                        "name": " Prøv i 120 dager - Philips Ambilight",
+                                        "category_image_width": "120",
+                                        "category_image_height": "120",
+                                        "is_scheduled": "1",
+                                        "beginning_date": "2024-10-29 15:10:00",
+                                        "ending_date": "2025-01-12 22:59:00",
+                                        "category_position": "top-left",
+                                        "link": "https://www.elon.no/philips-ambilight-tv",
+                                        "category_image_link": "https://www.elon.no/media/catalog/vaimo_badges/ambilight_120_dager.png"
+                                    }
+                                ]
+                            },
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "126905-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "126904-p",
+                        "ticket": "OzM7IzsxMjY5MDQtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsyMDs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126904_1_4e8a69ee6717671ca2b55bd3ece5943e.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126904_1_4e8a69ee6717671ca2b55bd3ece5943e.jpeg"
+                        },
+                        "title": "TV Philips 55\" - 55OLED809 4K Ambilight-TV",
+                        "name": "Philips 55\" - 55OLED809 4K Ambilight-TV",
+                        "link": "/philips-55-55oled809-4k-ambilight-tv-126904",
+                        "variants": [
+                            {
+                                "key": "126904",
+                                "ticket": "OzM7IzsxMjY5MDQtcDsxMjY5MDQ7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzIwOzk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 51,
+                                "listPrice": 31990.0,
+                                "sellingPrice": 31990.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "TV",
+                                    "label": "TV"
+                                }
+                            ],
+                            "energy_arrow_url": [
+                                {
+                                    "id": "arrow-left-red-g-ag",
+                                    "label": "arrow-left-red-g-ag"
+                                }
+                            ],
+                            "energy_decal_url": [
+                                {
+                                    "id": "https://static.elongroup.se//EnergyDecal/Article/1238472/philips-55oled809-12.svg",
+                                    "label": "https://static.elongroup.se//EnergyDecal/Article/1238472/philips-55oled809-12.svg"
+                                }
+                            ],
+                            "energyproductsheet_url": [
+                                {
+                                    "id": "https://static.elongroup.se/Document/Article/475007/energiproduktblad-tv-philips-55oled80912.pdf",
+                                    "label": "https://static.elongroup.se/Document/Article/475007/energiproduktblad-tv-philips-55oled80912.pdf"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7350015610811,7332690244017,7340089516324",
+                                    "label": "7350015610811,7332690244017,7340089516324"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "100050",
+                                    "label": "100050"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Imponerande 55\" 4K Ambilight-TV med verklighetstrogen bild och uppslukande ljud",
+                                    "label": "Imponerande 55\" 4K Ambilight-TV med verklighetstrogen bild och uppslukande ljud"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {
+                                "product_badges": [
+                                    {
+                                        "badge_id": "2215",
+                                        "name": " Prøv i 120 dager - Philips Ambilight",
+                                        "category_image_width": "120",
+                                        "category_image_height": "120",
+                                        "is_scheduled": "1",
+                                        "beginning_date": "2024-10-29 15:10:00",
+                                        "ending_date": "2025-01-12 22:59:00",
+                                        "category_position": "top-left",
+                                        "link": "https://www.elon.no/philips-ambilight-tv",
+                                        "category_image_link": "https://www.elon.no/media/catalog/vaimo_badges/ambilight_120_dager.png"
+                                    }
+                                ]
+                            },
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "126904-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "126899-p",
+                        "ticket": "OzM7IzsxMjY4OTktcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsyMTs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126899_1_5e264defd977653c7739c1e543e846fd.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126899_1_5e264defd977653c7739c1e543e846fd.jpeg"
+                        },
+                        "title": "TV Philips 55\" - 55PUS8949 4K Ambilight TV",
+                        "name": "Philips 55\" - 55PUS8949 4K Ambilight TV",
+                        "link": "/philips-55-55pus8949-4k-ambilight-tv-126899",
+                        "variants": [
+                            {
+                                "key": "126899",
+                                "ticket": "OzM7IzsxMjY4OTktcDsxMjY4OTk7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzIxOzk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 140,
+                                "listPrice": 8990.0,
+                                "sellingPrice": 8990.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "TV",
+                                    "label": "TV"
+                                }
+                            ],
+                            "energy_arrow_url": [
+                                {
+                                    "id": "arrow-left-darkorange-f-ag",
+                                    "label": "arrow-left-darkorange-f-ag"
+                                }
+                            ],
+                            "energy_decal_url": [
+                                {
+                                    "id": "https://static.elongroup.se//EnergyDecal/Article/1238467/philips-55pus8949-12.svg",
+                                    "label": "https://static.elongroup.se//EnergyDecal/Article/1238467/philips-55pus8949-12.svg"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7350015611863,7340089516621,7340089516324,7340089516898,7332690244017",
+                                    "label": "7350015611863,7340089516621,7340089516324,7340089516898,7332690244017"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "99898",
+                                    "label": "99898"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "55\" 4K Ambilight TV The One – den perfekta TV:n för dig som vill ha allt",
+                                    "label": "55\" 4K Ambilight TV The One – den perfekta TV:n för dig som vill ha allt"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {
+                                "product_badges": [
+                                    {
+                                        "badge_id": "2215",
+                                        "name": " Prøv i 120 dager - Philips Ambilight",
+                                        "category_image_width": "120",
+                                        "category_image_height": "120",
+                                        "is_scheduled": "1",
+                                        "beginning_date": "2024-10-29 15:10:00",
+                                        "ending_date": "2025-01-12 22:59:00",
+                                        "category_position": "top-left",
+                                        "link": "https://www.elon.no/philips-ambilight-tv",
+                                        "category_image_link": "https://www.elon.no/media/catalog/vaimo_badges/ambilight_120_dager.png"
+                                    }
+                                ]
+                            },
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "126899-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "126710-p",
+                        "ticket": "OzM7IzsxMjY3MTAtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsyMjs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126710_1_4794a7f45ab9c3a5ad12284a59e9ca56.jpeg",
+                                            "width": 1500,
+                                            "height": 1500
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126710_1_4794a7f45ab9c3a5ad12284a59e9ca56.jpeg"
+                        },
+                        "title": "Philips HD9137/90",
+                        "name": "Philips HD9137/90",
+                        "link": "/philips-hd9137-90-126710",
+                        "variants": [
+                            {
+                                "key": "126710",
+                                "ticket": "OzM7IzsxMjY3MTAtcDsxMjY3MTA7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzIyOzk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 8,
+                                "listPrice": 379.0,
+                                "sellingPrice": 379.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "Äggkokare",
+                                    "label": "Äggkokare"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080001364885",
+                                    "label": "7080001364885"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "99150",
+                                    "label": "99150"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Med Philips eggkoker HD9137/90 får du perfekt tilberedte egg hver dag takket være målekoppen og den høye kokeeffekten på 400 W.",
+                                    "label": "Med Philips eggkoker HD9137/90 får du perfekt tilberedte egg hver dag takket være målekoppen og den høye kokeeffekten på 400 W."
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "126710-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "122676-p",
+                        "ticket": "OzM7IzsxMjI2NzYtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsyMzs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/122676_1_9e84e093a2564fe44fe8f32b70cbbd98.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/122676_1_9e84e093a2564fe44fe8f32b70cbbd98.jpeg"
+                        },
+                        "title": "Barbermaskin Philips S3143/00 SHAVER P-CAP",
+                        "name": "Philips S3143/00 SHAVER P-CAP",
+                        "link": "/philips-s3143-00-shaver-p-cap",
+                        "variants": [
+                            {
+                                "key": "122676",
+                                "ticket": "OzM7IzsxMjI2NzYtcDsxMjI2NzY7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzIzOzk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 617,
+                                "listPrice": 1099.0,
+                                "sellingPrice": 1099.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "Barbermaskin",
+                                    "label": "Barbermaskin"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080000456680,7080000456802,7080000456840,7080005034098,7080000457311,7080000456925,7080000457069,7080001149383,7080000457083,7080000480739,7080000457342,7080001081379,7080005032964,7080000457526,7080001217754,7080000941414,7080001236458,7080001315825,7080001364885,7080001364892,7080001379315,7080004066663,7080001094744,7080000506163,7080004192041,7080001101862,7080011044890,7080011044883,7080000948604,7080011044869,7080011000742,7080004154209,7080011045217,7080004177505,7080004389601,7080011044852,7080004188075,7080011061569,7080011061637,7080004372542,7080004285552,7080004408760,7080011061613,7080011061590,7080011061699,7080011061644",
+                                    "label": "7080000456680,7080000456802,7080000456840,7080005034098,7080000457311,7080000456925,7080000457069,7080001149383,7080000457083,7080000480739,7080000457342,7080001081379,7080005032964,7080000457526,7080001217754,7080000941414,7080001236458,7080001315825,7080001364885,7080001364892,7080001379315,7080004066663,7080001094744,7080000506163,7080004192041,7080001101862,7080011044890,7080011044883,7080000948604,7080011044869,7080011000742,7080004154209,7080011045217,7080004177505,7080004389601,7080011044852,7080004188075,7080011061569,7080011061637,7080004372542,7080004285552,7080004408760,7080011061613,7080011061590,7080011061699,7080011061644"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "96058",
+                                    "label": "96058"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Hodet kan snus og bøyes i fem retninger og følger alle ansiktets kurver",
+                                    "label": "Hodet kan snus og bøyes i fem retninger og følger alle ansiktets kurver"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "122676-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "117916-p",
+                        "ticket": "OzM7IzsxMTc5MTYtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsyNDs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/117916_1_7b47ad77a29cf08fb87061e1adb584c7.jpeg",
+                                            "width": 1500,
+                                            "height": 1500
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/117916_1_7b47ad77a29cf08fb87061e1adb584c7.jpeg"
+                        },
+                        "title": "Smart pære Philips Hue Kit Färg 9W A60 E27 3set",
+                        "name": "Philips Hue Kit Färg 9W A60 E27 3set",
+                        "link": "/philips-hue-kit-farg-9w-a60-e27-3set",
+                        "variants": [
+                            {
+                                "key": "117916",
+                                "ticket": "OzM7IzsxMTc5MTYtcDsxMTc5MTY7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI0Ozk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 2,
+                                "listPrice": 2090.0,
+                                "sellingPrice": 2090.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "Smart pære",
+                                    "label": "Smart pære"
+                                }
+                            ],
+                            "energy_arrow_url": [
+                                {
+                                    "id": "arrow-left-darkorange-f-ag",
+                                    "label": "arrow-left-darkorange-f-ag"
+                                }
+                            ],
+                            "energy_decal_url": [
+                                {
+                                    "id": "https://static.elongroup.se//EnergyDecal/Article/970093/philips-hue-kit-frg-9w-a60-e27-3set.svg",
+                                    "label": "https://static.elongroup.se//EnergyDecal/Article/970093/philips-hue-kit-frg-9w-a60-e27-3set.svg"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "87671",
+                                    "label": "87671"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "117916-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "117886-p",
+                        "ticket": "OzM7IzsxMTc4ODYtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsyNTs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/117886_1_de81f15d08ee78e2cc5c2e622747e891.jpeg",
+                                            "width": 1500,
+                                            "height": 1500
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/117886_1_de81f15d08ee78e2cc5c2e622747e891.jpeg"
+                        },
+                        "title": "Juicemaskin Philips HR1832/00",
+                        "name": "Philips HR1832/00",
+                        "link": "/philips-hr1832-00",
+                        "variants": [
+                            {
+                                "key": "117886",
+                                "ticket": "OzM7IzsxMTc4ODYtcDsxMTc4ODY7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI1Ozk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 29,
+                                "listPrice": 1090.0,
+                                "sellingPrice": 1090.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "Juicemaskin",
+                                    "label": "Juicemaskin"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080001094744,7080004299504,7080004389601",
+                                    "label": "7080001094744,7080004299504,7080004389601"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "86169",
+                                    "label": "86169"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Mest mulig juice. Minst mulig arbeid.",
+                                    "label": "Mest mulig juice. Minst mulig arbeid."
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {
+                                "product_badges": [
+                                    {
+                                        "badge_id": "952",
+                                        "name": "Philips 60 dager prøve",
+                                        "category_image_width": 1200,
+                                        "category_image_height": 1135,
+                                        "is_scheduled": "0",
+                                        "beginning_date": "0000-00-00 00:00:00",
+                                        "ending_date": "0000-00-00 00:00:00",
+                                        "category_position": "top-left",
+                                        "category_image_link": "https://www.elon.no/media/catalog/vaimo_badges/MB-2015-60-dagar-NO_1.png"
+                                    }
+                                ]
+                            },
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "117886-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "126707-p",
+                        "ticket": "OzM7IzsxMjY3MDctcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsyNjs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126707_1_4e940b2e7e2be4b537582eb6e75c26e9.jpeg",
+                                            "width": 1500,
+                                            "height": 1500
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/126707_1_4e940b2e7e2be4b537582eb6e75c26e9.jpeg"
+                        },
+                        "title": "Espresso-/kaffemaskin Espressomaskin EP2331/10 Philips",
+                        "name": "Espressomaskin EP2331/10 Philips",
+                        "link": "/espressomaskin-ep2331-10-philips-126707",
+                        "variants": [
+                            {
+                                "key": "126707",
+                                "ticket": "OzM7IzsxMjY3MDctcDsxMjY3MDc7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI2Ozk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 3,
+                                "listPrice": 6490.0,
+                                "sellingPrice": 6490.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "Espresso-/kaffemaskin",
+                                    "label": "Espresso-/kaffemaskin"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080000457342,7080011044906,7080001235956,7080000456925,7080011060265,7080000457069",
+                                    "label": "7080000457342,7080011044906,7080001235956,7080000456925,7080011060265,7080000457069"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "99796",
+                                    "label": "99796"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Med Philips espressomaskin EP2331/10 kan du nyte fire kaffedrikker med perfekt crema-lag, aroma og temperatur.",
+                                    "label": "Med Philips espressomaskin EP2331/10 kan du nyte fire kaffedrikker med perfekt crema-lag, aroma og temperatur."
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "126707-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "118677-p",
+                        "ticket": "OzM7IzsxMTg2NzctcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsyNzs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/118677_1_4ec6655543db8848b1da4861c7e3f8ec.jpeg",
+                                            "width": 1500,
+                                            "height": 1500
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/118677_1_4ec6655543db8848b1da4861c7e3f8ec.jpeg"
+                        },
+                        "title": "Airfryer Philips HD9255/90 Connected",
+                        "name": "Philips HD9255/90 Connected",
+                        "link": "/philips-hd9255-90",
+                        "variants": [
+                            {
+                                "key": "118677",
+                                "ticket": "OzM7IzsxMTg2NzctcDsxMTg2Nzc7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI3Ozk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 678,
+                                "listPrice": 1990.0,
+                                "sellingPrice": 1990.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "Airfryer",
+                                    "label": "Airfryer"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080000456680,7080001236441,7080001217754,7080001236458,7080001315825,7080000483679,7080001364892,7080004053458,7080000506163,7080004192041,7080004127838,7080011045217,7080004177505,7080004188075,7080004285552,7080004299504,7080011044937,7080011061590,7080011061644,7080011061668",
+                                    "label": "7080000456680,7080001236441,7080001217754,7080001236458,7080001315825,7080000483679,7080001364892,7080004053458,7080000506163,7080004192041,7080004127838,7080011045217,7080004177505,7080004188075,7080004285552,7080004299504,7080011044937,7080011061590,7080011061644,7080011061668"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "88440",
+                                    "label": "88440"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Sunnere. Bedre smak. Enklere. Nå også tilkoblet.",
+                                    "label": "Sunnere. Bedre smak. Enklere. Nå også tilkoblet."
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {
+                                "product_badges": [
+                                    {
+                                        "badge_id": "952",
+                                        "name": "Philips 60 dager prøve",
+                                        "category_image_width": 1200,
+                                        "category_image_height": 1135,
+                                        "is_scheduled": "0",
+                                        "beginning_date": "0000-00-00 00:00:00",
+                                        "ending_date": "0000-00-00 00:00:00",
+                                        "category_position": "top-left",
+                                        "category_image_link": "https://www.elon.no/media/catalog/vaimo_badges/MB-2015-60-dagar-NO_1.png"
+                                    }
+                                ]
+                            },
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "118677-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "122677-p",
+                        "ticket": "OzM7IzsxMjI2NzctcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsyODs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/122677_1_3d960aa91daa9a1ba59f85a68100fc06.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/122677_1_3d960aa91daa9a1ba59f85a68100fc06.jpeg"
+                        },
+                        "title": "Barbermaskin Philips S7887/58 SHAVER Q CLEAN POD, C",
+                        "name": "Philips S7887/58 SHAVER Q CLEAN POD, C",
+                        "link": "/philips-s7887-58-shaver-q-clean-pod-c",
+                        "variants": [
+                            {
+                                "key": "122677",
+                                "ticket": "OzM7IzsxMjI2NzctcDsxMjI2Nzc7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI4Ozk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 743,
+                                "listPrice": 2790.0,
+                                "sellingPrice": 2790.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "Barbermaskin",
+                                    "label": "Barbermaskin"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080000456680,7080001272579,7080000456802,7080000457311,7080000457069,7080001235956,7080000457342,7080005032964,7080001236458,7080000483679,7080001379315,7080001390556,7080001398903,7080000506163,7080004192041,7080001101862,7080000948604,7080011044869,7080011000742,7080004389601,7080011044852,7080004372542,7080011061590,7080011061576",
+                                    "label": "7080000456680,7080001272579,7080000456802,7080000457311,7080000457069,7080001235956,7080000457342,7080005032964,7080001236458,7080000483679,7080001379315,7080001390556,7080001398903,7080000506163,7080004192041,7080001101862,7080000948604,7080011044869,7080011000742,7080004389601,7080011044852,7080004372542,7080011061590,7080011061576"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "96059",
+                                    "label": "96059"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Helt fleksible barberhoder som kan roteres 360° for å følge ansiktets konturer",
+                                    "label": "Helt fleksible barberhoder som kan roteres 360° for å følge ansiktets konturer"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "122677-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "122299-p",
+                        "ticket": "OzM7IzsxMjIyOTktcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDsyOTs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/122299_2_6738fd17573cd99537a2c010f3ae3c35.jpeg",
+                                            "width": 1500,
+                                            "height": 1500
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/122299_2_6738fd17573cd99537a2c010f3ae3c35.jpeg"
+                        },
+                        "title": "Airfryer Philips HD9285/96",
+                        "name": "Philips HD9285/96",
+                        "link": "/philips-hd9285-96",
+                        "variants": [
+                            {
+                                "key": "122299",
+                                "ticket": "OzM7IzsxMjIyOTktcDsxMjIyOTk7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI5Ozk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 878,
+                                "listPrice": 3490.0,
+                                "sellingPrice": 3490.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "Airfryer",
+                                    "label": "Airfryer"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080004127838,7080011045217",
+                                    "label": "7080004127838,7080011045217"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "94588",
+                                    "label": "94588"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Luftsteking, baking, grilling, steking, tørking, steking, tining, gjenoppvarming",
+                                    "label": "Luftsteking, baking, grilling, steking, tørking, steking, tining, gjenoppvarming"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "122299-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "122184-p",
+                        "ticket": "OzM7IzsxMjIxODQtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDszMDs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/122184_1_8b4d8e611be0962e3c30937728db5b45.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/2/122184_1_8b4d8e611be0962e3c30937728db5b45.jpeg"
+                        },
+                        "title": "Barbermaskin Philips Philips Shaver 5000+ Nosetrimm",
+                        "name": "Philips Philips Shaver 5000+ Nosetrimm",
+                        "link": "/philips-philips-shaver-5000-nosetrimm",
+                        "variants": [
+                            {
+                                "key": "122184",
+                                "ticket": "OzM7IzsxMjIxODQtcDsxMjIxODQ7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzMwOzk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 198,
+                                "listPrice": 1590.0,
+                                "sellingPrice": 1590.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "Barbermaskin",
+                                    "label": "Barbermaskin"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080000456680,7080005034098,7080000457311,7080000456925,7080000457069,7080001149383,7080001081379,7080000457526,7080000941414,7080001236458,7080001315825,7080001364885,7080001364892,7080001379315,7080001390556,7080001398903,7080000506163,7080004192041,7080001101862,7080011044883,7080004127838,7080000948604,7080011044869,7080004154209,7080011045217,7080004177505,7080011044852,7080004188075,7080011061613,7080011044937,7080011061576,7080011061644",
+                                    "label": "7080000456680,7080005034098,7080000457311,7080000456925,7080000457069,7080001149383,7080001081379,7080000457526,7080000941414,7080001236458,7080001315825,7080001364885,7080001364892,7080001379315,7080001390556,7080001398903,7080000506163,7080004192041,7080001101862,7080011044883,7080004127838,7080000948604,7080011044869,7080004154209,7080011045217,7080004177505,7080011044852,7080004188075,7080011061613,7080011044937,7080011061576,7080011061644"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "94249",
+                                    "label": "94249"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Barbermaskinen har intelligente ansiktshårsensorer som leser hårtettheten",
+                                    "label": "Barbermaskinen har intelligente ansiktshårsensorer som leser hårtettheten"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "122184-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "119725-p",
+                        "ticket": "OzM7IzsxMTk3MjUtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDszMTs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/119725_1_af4cc4525598e8549ce5b47fd966b2ec.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/119725_1_af4cc4525598e8549ce5b47fd966b2ec.jpeg"
+                        },
+                        "title": "Strykejern Philips DST8020/21",
+                        "name": "Philips DST8020/21",
+                        "link": "/philips-dst8020-21",
+                        "variants": [
+                            {
+                                "key": "119725",
+                                "ticket": "OzM7IzsxMTk3MjUtcDsxMTk3MjU7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzMxOzk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 35,
+                                "listPrice": 1390.0,
+                                "sellingPrice": 1390.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "Strykejern",
+                                    "label": "Strykejern"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080004053458,7080004154209",
+                                    "label": "7080004053458,7080004154209"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "88855",
+                                    "label": "88855"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Snabbt ångstrykjärn med OptimalTEMP",
+                                    "label": "Snabbt ångstrykjärn med OptimalTEMP"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "119725-pg",
+                "remaining": 0
+            },
+            {
+                "products": [
+                    {
+                        "key": "118693-p",
+                        "ticket": "OzM7IzsxMTg2OTMtcDsjOy9mYXNoaW9uL0RFU0tUT1AvU0VBUkNIX1BBR0UvU0VBUkNIX1JFU1VMVDsjOyM7T0JKRUNUSVZFJDszMjs5ODsjOw",
+                        "imageInfo": {
+                            "effect": "NONE",
+                            "images": [
+                                {
+                                    "sources": [
+                                        {
+                                            "url": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/118693_1_51ddd849d2735c44486f4cd72f7371d1.jpeg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "thumbnail": "https://www.elon.se/media/catalog/product/cache/9bcf869140314edbce23cdc57966b215/1/1/118693_1_51ddd849d2735c44486f4cd72f7371d1.jpeg"
+                        },
+                        "title": "TV Philips 24\" LED TV 24PHS5537",
+                        "name": "Philips 24\" LED TV 24PHS5537",
+                        "link": "/philips-24-led-tv-24phs5537-118693",
+                        "variants": [
+                            {
+                                "key": "118693",
+                                "ticket": "OzM7IzsxMTg2OTMtcDsxMTg2OTM7L2Zhc2hpb24vREVTS1RPUC9TRUFSQ0hfUEFHRS9TRUFSQ0hfUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzMyOzk4OyM7",
+                                "inStock": true,
+                                "stockNumber": 7,
+                                "listPrice": 3190.0,
+                                "sellingPrice": 3190.0,
+                                "prices": []
+                            }
+                        ],
+                        "custom": {
+                            "attribute_set_label": [
+                                {
+                                    "id": "TV",
+                                    "label": "TV"
+                                }
+                            ],
+                            "energyproductsheet_url": [
+                                {
+                                    "id": "https://static.elongroup.se/Document/Article/323694/energiproduktblad-tv-philips-24phs553712.pdf",
+                                    "label": "https://static.elongroup.se/Document/Article/323694/energiproduktblad-tv-philips-24phs553712.pdf"
+                                }
+                            ],
+                            "in_local_store": [
+                                {
+                                    "id": "7080000457311,7080000456925,7080000457069,7080001149383,7080001236441,7080001081379,7080001217754,7080001315825,7080001364892,7080004066663,7080001101862,7080000948604,7080004177505,7080004178786,7080004285552,7080004299504,7080011044906,7080004302235,7080011044937",
+                                    "label": "7080000457311,7080000456925,7080000457069,7080001149383,7080001236441,7080001081379,7080001217754,7080001315825,7080001364892,7080004066663,7080001101862,7080000948604,7080004177505,7080004178786,7080004285552,7080004299504,7080011044906,7080004302235,7080011044937"
+                                }
+                            ],
+                            "product_id": [
+                                {
+                                    "id": "90658",
+                                    "label": "90658"
+                                }
+                            ],
+                            "short_description": [
+                                {
+                                    "id": "Bobil-TV-en med Pixel Plus HD",
+                                    "label": "Bobil-TV-en med Pixel Plus HD"
+                                }
+                            ]
+                        },
+                        "typedCustom": {
+                            "lengths": {},
+                            "json": {},
+                            "numbers": {}
+                        }
+                    }
+                ],
+                "key": "118693-pg",
+                "remaining": 0
+            }
+        ],
+        "totalHits": 146,
+        "facets": [
+            {
+                "selected": false,
+                "count": 128,
+                "id": "onlyInStock",
+                "label": "På lager",
+                "type": "CHECKBOX"
+            },
+            {
+                "values": [
+                    {
+                        "id": "Philips",
+                        "label": "Philips",
+                        "selected": true,
+                        "count": 146
+                    }
+                ],
+                "sort": "ALPHABETICAL",
+                "selectedCount": 1,
+                "id": "brand",
+                "label": "Merkenavn",
+                "type": "TEXT"
+            },
+            {
+                "min": 59.0,
+                "max": 69990.0,
+                "id": "price",
+                "label": "Pris",
+                "type": "RANGE"
+            },
+            {
+                "values": [
+                    {
+                        "id": "Annet",
+                        "label": "Annet",
+                        "selected": false,
+                        "count": 4
+                    },
+                    {
+                        "id": "Antrasitt",
+                        "label": "Antrasitt",
+                        "selected": false,
+                        "count": 5
+                    },
+                    {
+                        "id": "Blå",
+                        "label": "Blå",
+                        "selected": false,
+                        "count": 4
+                    },
+                    {
+                        "id": "Grønn",
+                        "label": "Grønn",
+                        "selected": false,
+                        "count": 2
+                    },
+                    {
+                        "id": "Grå",
+                        "label": "Grå",
+                        "selected": false,
+                        "count": 9
+                    },
+                    {
+                        "id": "Hvit",
+                        "label": "Hvit",
+                        "selected": false,
+                        "count": 26
+                    },
+                    {
+                        "id": "Krom",
+                        "label": "Krom",
+                        "selected": false,
+                        "count": 1
+                    },
+                    {
+                        "id": "Metall",
+                        "label": "Metall",
+                        "selected": false,
+                        "count": 1
+                    },
+                    {
+                        "id": "Metallic",
+                        "label": "Metallic",
+                        "selected": false,
+                        "count": 1
+                    },
+                    {
+                        "id": "Rosa",
+                        "label": "Rosa",
+                        "selected": false,
+                        "count": 1
+                    },
+                    {
+                        "id": "Rustfri",
+                        "label": "Rustfri",
+                        "selected": false,
+                        "count": 3
+                    },
+                    {
+                        "id": "Svart",
+                        "label": "Svart",
+                        "selected": false,
+                        "count": 37
+                    },
+                    {
+                        "id": "Sølv",
+                        "label": "Sølv",
+                        "selected": false,
+                        "count": 2
+                    },
+                    {
+                        "id": "Transparent",
+                        "label": "Transparent",
+                        "selected": false,
+                        "count": 6
+                    }
+                ],
+                "sort": "ALPHABETICAL",
+                "selectedCount": 0,
+                "id": "custom.pim_farg_lev",
+                "label": "Farge",
+                "type": "TEXT"
+            },
+            {
+                "min": 0.0,
+                "max": 1723.0,
+                "id": "custom.number.pim2_bredd",
+                "label": "Bredde",
+                "type": "RANGE"
+            },
+            {
+                "min": 0.0,
+                "max": 1017.0,
+                "id": "custom.number.pim2_h_jd",
+                "label": "Høyde",
+                "type": "RANGE"
+            },
+            {
+                "min": 0.0,
+                "max": 732.0,
+                "id": "custom.number.pim2_djup",
+                "label": "Dybde",
+                "type": "RANGE"
+            }
+        ],
+        "sort": {
+            "selected": "RELEVANCE",
+            "options": [
+                {
+                    "id": "RELEVANCE",
+                    "label": "Mest relevant"
+                },
+                {
+                    "id": "NEWEST_FIRST",
+                    "label": "Nytt"
+                },
+                {
+                    "id": "PRICE_DESCENDING",
+                    "label": "Høyest pris"
+                },
+                {
+                    "id": "PRICE_ASCENDING",
+                    "label": "Lavest pris"
+                },
+                {
+                    "id": "DISCOUNT",
+                    "label": "Tilbud"
+                }
+            ]
+        },
+        "sliceRanges": []
+    },
+    "contentLists": [],
+    "secondaryList": {
+        "productGroups": [],
+        "totalHits": 0
+    },
+    "relatedSearches": []
+}
